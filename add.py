@@ -1,3 +1,4 @@
+#this is function for python
 def maximum(a,b):
    if a>=b:
       return a
